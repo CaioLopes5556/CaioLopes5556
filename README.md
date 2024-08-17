@@ -1,9 +1,12 @@
 ## Olá! Sou Caio Lopes👋
 
 
-![CaioLopes5556's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioLopes5556&show_icons=true&theme=dark)
+  
+![CaioLopes5556's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioLopes5556&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioLopes5556&layout=compact)](https://github.com/CaioLopes5556/github-readme-stats)
+
+
 
 ## Linguagens que estudo:
 <div style="display: inline_block"><br>
