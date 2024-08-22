@@ -1,6 +1,6 @@
 # Olá! Sou Caio Lopes👋
 
-- 🌱 Atualmente cursando o 6º semestre do curso de Analise e Desenvolvimento de Sistemas na Fatec Zona Sul
+- 🌱 Atualmente cursando o 6º semestre do curso de Análise e Desenvolvimento de Sistemas na Fatec Zona Sul
 - 👯 Estudando Desenvolvimento Web, sendo o Front-End meu principal interesse
 - 😄 Pronomes: Ele/Dele
 - 📬 Email: caiohenrique7772@gmail.com
