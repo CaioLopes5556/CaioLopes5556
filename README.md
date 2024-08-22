@@ -1,5 +1,10 @@
 ## Olá! Sou Caio Lopes👋
+Alguns projetos feitos até até aqui:
+- <a href="https://caiolopes5556.github.io/curriculo-web/" target="_blank">Curriculo Web</a> 👈
+- <a href="https://caiolopes5556.github.io/To-Do-List---JavaScript/" target="_blank">To Do List</a>👈
+- <a href="https://caiolopes5556.github.io/CountDown/" target="_blank">Count Down</a>👈
 
+# Minhas Estatisticas
 
   
 ![CaioLopes5556's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioLopes5556&show_icons=true&theme=dracula)
