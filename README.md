@@ -1,6 +1,6 @@
 # Olá! Sou Caio Lopes👋
 
-- 🌱 Atualmente cursando o 6º semestre do curso de Análise e Desenvolvimento de Sistemas na Fatec Zona Sul
+- 🌱 Graduado em Análise e Desenvolvimento de Sistemas na Fatec Zona Sul
 - 👯 Estudando Desenvolvimento Web, sendo o Front-End meu principal interesse
 - 😄 Pronomes: Ele/Dele
 - 📬 Email: caiohenrique7772@gmail.com
@@ -8,8 +8,16 @@
 ## Meus projetos:
 
 Alguns projetos feitos até aqui:
-### <a href="https://caiolopes5556.github.io/Landing-Page-Apolo/" target="_blank">Landing Page</a> 👈
-### <a href="https://caiolopes5556.github.io/MicroWave/" target="_blank">Microondas</a> 👈
+
+### *Desafios do* [Front-End Mentor](https://www.frontendmentor.io/profile/CaioLopes5556) 
+
+- <a href="https://caiolopes5556.github.io/MySolution-QR-CODE-COMPONENT-MAIN/" target="_blank">QR Code Component</a> 👈
+- <a href="https//caiolopes5556.github.io/MySolution-blog-preview-card-main/" target="_blank">Blog Preview Card</a> 👈
+
+### *Outros Projetos*
+
+- <a href="https://caiolopes5556.github.io/Landing-Page-Apolo/" target="_blank">Landing Page</a> 👈
+- <a href="https://caiolopes5556.github.io/MicroWave/" target="_blank">MicroWave</a> 👈
 - <a href="https://caiolopes5556.github.io/curriculo-web/" target="_blank">Curriculo Web</a> 👈
 - <a href="https://caiolopes5556.github.io/To-Do-List---JavaScript/" target="_blank">To Do List</a>👈
 - <a href="https://caiolopes5556.github.io/CountDown/" target="_blank">Count Down</a>👈
