@@ -11,8 +11,10 @@ Alguns projetos feitos até aqui:
 
 ### *Desafios do* [Front-End Mentor](https://www.frontendmentor.io/profile/CaioLopes5556) 
 
-- <a href="https://caiolopes5556.github.io/MySolution-QR-CODE-COMPONENT-MAIN/" target="_blank">QR Code Component</a> 👈
+- <a href="https://caiolopes5556.github.io/MySolution-social-links-profile-main/" target="_blank">Social links profile solution</a> 👈
 - <a href="https://caiolopes5556.github.io/MySolution-blog-preview-card-main/" target="_blank">Blog Preview Card</a> 👈
+- <a href="https://caiolopes5556.github.io/MySolution-QR-CODE-COMPONENT-MAIN/" target="_blank">QR Code Component</a> 👈
+
 
 ### *Outros Projetos*
 
