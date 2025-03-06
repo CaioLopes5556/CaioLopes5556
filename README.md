@@ -9,6 +9,9 @@
 
 Alguns projetos feitos até aqui:
 
+### *React*
+- <a href="https://caiolopes5556.github.io/secretword/" target="_blank">SecretWord</a> 👈
+
 ### *Desafios do* [Front-End Mentor](https://www.frontendmentor.io/profile/CaioLopes5556) 
 - <a href="https://caiolopes5556.github.io/MySolution-recipe-page-main/" target="_blank">Recipe page solution</a> 👈
 - <a href="https://caiolopes5556.github.io/MySolution-social-links-profile-main/" target="_blank">Social links profile solution</a> 👈
@@ -34,13 +37,14 @@ Alguns projetos feitos até aqui:
 
 
 
-## Linguagens que estudo:
+## Linguagens e bibliotecas que estudo:
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 
 ## Contato:
