@@ -19,8 +19,9 @@ Alguns projetos feitos até aqui:
 - <a href="https://caiolopes5556.github.io/MySolution-QR-CODE-COMPONENT-MAIN/" target="_blank">QR Code Component</a> 👈
 
 
-### *Outros Projetos*
+### *Projetos Pessoais*
 
+- <a href="https://caiolopes5556.github.io/calculadoraSimples/" target="_blank">Calculadora Simples com HTML, CSS e JS</a> 👈
 - <a href="https://caiolopes5556.github.io/Landing-Page-Apolo/" target="_blank">Landing Page</a> 👈
 - <a href="https://caiolopes5556.github.io/MicroWave/" target="_blank">MicroWave</a> 👈
 - <a href="https://caiolopes5556.github.io/curriculo-web/" target="_blank">Curriculo Web</a> 👈
