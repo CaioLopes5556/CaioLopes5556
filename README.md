@@ -1,7 +1,7 @@
 # Olá! Sou Caio Lopes👋
 
 - 🌱 Graduado em Análise e Desenvolvimento de Sistemas na Fatec Zona Sul
-- 👯 Estudando Desenvolvimento Web, sendo o Front-End meu principal interesse
+- 👯 Estudo Desenvolvimento Web, sendo o Front-End meu principal interesse
 - 😄 Pronomes: Ele/Dele
 - 📬 Email: caiohenrique7772@gmail.com
   
