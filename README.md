@@ -9,24 +9,28 @@
 
 Alguns projetos feitos até aqui:
 
-### *React*
-- <a href="https://caiolopes5556.github.io/secretword/" target="_blank">SecretWord</a> 👈
+### *Projetos em React*
+  
+<img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+
+- <a href="https://caiolopes5556.github.io/quizzes-app/" target="_blank">Quizz Theme</a>
+- <a href="https://caiolopes5556.github.io/secretword/" target="_blank">SecretWord</a> 
 
 ### *Desafios do* [Front-End Mentor](https://www.frontendmentor.io/profile/CaioLopes5556) 
-- <a href="https://caiolopes5556.github.io/MySolution-recipe-page-main/" target="_blank">Recipe page solution</a> 👈
-- <a href="https://caiolopes5556.github.io/MySolution-social-links-profile-main/" target="_blank">Social links profile solution</a> 👈
-- <a href="https://caiolopes5556.github.io/MySolution-blog-preview-card-main/" target="_blank">Blog Preview Card</a> 👈
-- <a href="https://caiolopes5556.github.io/MySolution-QR-CODE-COMPONENT-MAIN/" target="_blank">QR Code Component</a> 👈
+- <a href="https://caiolopes5556.github.io/MySolution-recipe-page-main/" target="_blank">Recipe page solution</a> 
+- <a href="https://caiolopes5556.github.io/MySolution-social-links-profile-main/" target="_blank">Social links profile solution</a> 
+- <a href="https://caiolopes5556.github.io/MySolution-blog-preview-card-main/" target="_blank">Blog Preview Card</a> 
+- <a href="https://caiolopes5556.github.io/MySolution-QR-CODE-COMPONENT-MAIN/" target="_blank">QR Code Component</a> 
 
 
 ### *Projetos Pessoais*
 
-- <a href="https://caiolopes5556.github.io/calculadoraSimples/" target="_blank">Calculadora Simples com HTML, CSS e JS</a> 👈
-- <a href="https://caiolopes5556.github.io/Landing-Page-Apolo/" target="_blank">Landing Page</a> 👈
-- <a href="https://caiolopes5556.github.io/MicroWave/" target="_blank">MicroWave</a> 👈
-- <a href="https://caiolopes5556.github.io/curriculo-web/" target="_blank">Curriculo Web</a> 👈
-- <a href="https://caiolopes5556.github.io/To-Do-List---JavaScript/" target="_blank">To Do List</a>👈
-- <a href="https://caiolopes5556.github.io/CountDown/" target="_blank">Count Down</a>👈
+- <a href="https://caiolopes5556.github.io/calculadoraSimples/" target="_blank">Calculadora Simples com HTML, CSS e JS</a> 
+- <a href="https://caiolopes5556.github.io/Landing-Page-Apolo/" target="_blank">Landing Page</a> 
+- <a href="https://caiolopes5556.github.io/MicroWave/" target="_blank">MicroWave</a> 
+- <a href="https://caiolopes5556.github.io/curriculo-web/" target="_blank">Curriculo Web</a> 
+- <a href="https://caiolopes5556.github.io/To-Do-List---JavaScript/" target="_blank">To Do List</a>
+- <a href="https://caiolopes5556.github.io/CountDown/" target="_blank">Count Down</a>
 
 
 ## Minhas Estatisticas
